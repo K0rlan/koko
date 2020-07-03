@@ -1,0 +1,38 @@
+.logo{
+  background: transparent!important;
+  display: inline;
+}
+header{
+  position: absolute;
+  top: 0;
+  z-index: 10;
+}
+.koko{
+  background: transparent!important;
+}
+mat-toolbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 25px;
+  padding-left: 150px;
+  }
+.leftnav{
+  padding-left: 360px;
+}
+mat-toolbar a {
+  display: block;
+  text-align: center;
+  padding: 14px 13px;
+  text-decoration: none;
+  font-family: Open Sans, sans-serif;
+  font-style: normal;
+  font-size: 17px;
+  /*line-height: 33px;*/
+  text-transform: uppercase;
+  color: #ffffff;
+
+}
+
+/*li a:hover:not(.active) {*/
+/*}*/
